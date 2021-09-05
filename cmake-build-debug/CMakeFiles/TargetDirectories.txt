@@ -1,0 +1,3 @@
+/home/zahra/CLionProjects/ga/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/zahra/CLionProjects/ga/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/zahra/CLionProjects/ga/cmake-build-debug/CMakeFiles/ga.dir
